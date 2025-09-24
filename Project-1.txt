@@ -1,0 +1,11 @@
+git clone https://github.com/simrankaur46/Computational-Social-Science-Projects.git
+mkdir Project-1
+cd Project-1
+touch Project-1.txt
+vim Project-1.txt 
+i
+esc
+:wq
+git add Project-1.txt
+git commit -m "setting up Project 1 folder and text file"
+git push 
